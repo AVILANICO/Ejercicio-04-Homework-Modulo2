@@ -1,2 +1,1 @@
-# Ejercicio-04-Homework-Modulo2
-Este es un repositorio para el HOMEWORK tarea 04
+Esto es una prueba para ver si puedo realizar la sincronizacion
